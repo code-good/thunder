@@ -39,7 +39,7 @@ def install():
 		#Closed
 
 		#Instalar
-		os.system("sudo apt-get install bbqsql unix-privesc-check sqlmap dnschef armitage dotdotpwn fang john joomscan kismet amap armitage nmap zenmap tor fimap nikto setoolkit w3af vidalia torchat reaver ophcrack aircrack-ng beef wireshark hrex hydra")
+		os.system("sudo apt-get install bbqsql unix-privesc-check sqlmap dnschef armitage dotdotpwn fang john joomscan kismet amap armitage nmap zenmap tor fimap nikto setoolkit w3af vidalia torchat reaver ophcrack aircrack-ng beef wireshark hydra")
 		#
 
 		#ListarTools
