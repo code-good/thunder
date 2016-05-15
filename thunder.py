@@ -49,7 +49,7 @@ def install():
 	elif func == 3:
 		os.system("exit")
 
-install()
+
 main()
  
 '''
