@@ -2,9 +2,7 @@
 install pentest tools / Instalar ferramentas de pentest
 
 # install
-git clone https://github.com/labSix6/thunder
-cd thunder
-sudo python thunder.py
+git clone https://github.com/labSix6/thunder\ncd thunder\nsudo python thunder.py
 
 :)
 
