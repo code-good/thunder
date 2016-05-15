@@ -1,13 +1,17 @@
 # thunder
 install pentest tools / Instalar ferramentas de pentest
 
-# install
-git clone https://github.com/labSix6/thunder
-# cd thunder
-# sudo python thunder.py
+####Using:
+```
+    git clone https://github.com/labSix6/thunder
+    cd thunder
+    sudo python thunder.py
+    :)
+```
+####Contact:
+'''
+    fb.com/devbrtx101
+    labsixx6@gmail.com
 
-# :)
+'''
 
-# Contact
-# labsixx6@gmail.com
-# facebook.com/devbrtx101
