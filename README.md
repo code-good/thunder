@@ -9,6 +9,5 @@ sudo python thunder.py
 :)
 
 #Contact
-
 labsixx6@gmail.com
-fb.com/devbrtx101
+facebook.com/devbrtx101
